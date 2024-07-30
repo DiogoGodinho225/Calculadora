@@ -33,6 +33,8 @@ h1{
     margin-bottom: 20px;
     font-size: 40pt;
     overflow: hidden;
+    border: 4px solid black;
+    border-radius: 7px;
 }
 
 .botao{
